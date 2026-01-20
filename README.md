@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Kambiz Shahriarynasab
+# I'm Kambiz Shahriarynasab
 
 **Lead Backend Engineer / Software Architect**  
 FinTech • Trading Systems • High-Performance & Real-Time Platforms
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a senior backend engineer with **15+ years of experience** designing and building
 **high-performance, scalable, and business-critical backend systems**.
@@ -19,7 +19,7 @@ authentication services, brokerage hubs, trading engines, and integration platfo
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 ### Backend
 - **.NET / C#**
@@ -48,7 +48,7 @@ authentication services, brokerage hubs, trading engines, and integration platfo
 
 ---
 
-## 🏗️ Selected Platforms & Systems
+## Selected Platforms & Systems
 
 - **Brokerage Hub & Integration Platform**  
   Central integration layer for multiple trading systems and brokers.
@@ -71,7 +71,7 @@ authentication services, brokerage hubs, trading engines, and integration platfo
 
 ---
 
-## 🎯 What I Focus On
+## What I Focus On
 
 - Designing **robust backend architectures**
 - Building **high-load, low-latency systems**
@@ -80,7 +80,7 @@ authentication services, brokerage hubs, trading engines, and integration platfo
 
 ---
 
-## 🌍 Location & Availability
+## Location & Availability
 
 - 📍 Based in Türkiye (Europe-friendly timezone)
 - 🌐 Open to **Remote / Contract / Consulting**
