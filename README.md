@@ -91,7 +91,3 @@ authentication services, brokerage hubs, trading engines, and integration platfo
 ## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/kambiz-shahriarynasab-514096164/
-
----
-
-> *"Simple code is not enough — systems must survive real-world pressure."*
