@@ -1,4 +1,4 @@
-# I'm Kambiz Shahriarynasab
+# Kambiz Shahriarynasab
 
 **Lead Backend Engineer / Software Architect**  
 FinTech • Trading Systems • High-Performance & Real-Time Platforms
@@ -7,7 +7,7 @@ FinTech • Trading Systems • High-Performance & Real-Time Platforms
 
 ## About Me
 
-I am a senior backend engineer with **15+ years of experience** designing and building
+Senior backend engineer with **15+ years of experience** designing and building
 **high-performance, scalable, and business-critical backend systems**.
 
 My expertise lies in **FinTech and trading platforms**, where reliability, low latency,
